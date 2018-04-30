@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 62d00e91efb58b74ab4cf270abde9153
+timeCreated: 1523527183
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AmrsHullPlates
+    100002: ArmGreebles
+    100004: Arms
+    100006: BackWing
+    100008: BackWingBox
+    100010: BackWingGreebles
+    100012: BackWingHullPlates
+    100014: CockpitGreebles
+    100016: Engines
+    100018: HullPlates
+    100020: MainHull
+    100022: //RootNode
+    100024: Window
+    100026: WingBeams
+    100028: WingGreebles
+    100030: Wings
+    400000: AmrsHullPlates
+    400002: ArmGreebles
+    400004: Arms
+    400006: BackWing
+    400008: BackWingBox
+    400010: BackWingGreebles
+    400012: BackWingHullPlates
+    400014: CockpitGreebles
+    400016: Engines
+    400018: HullPlates
+    400020: MainHull
+    400022: //RootNode
+    400024: Window
+    400026: WingBeams
+    400028: WingGreebles
+    400030: Wings
+    2100000: ScratchedMetalDark
+    2100002: ScratchedMetal
+    2100004: ReflectiveGlass
+    2100006: Black
+    2100008: TieWingMesh
+    2100010: RedEngineGlow
+    2300000: AmrsHullPlates
+    2300002: ArmGreebles
+    2300004: Arms
+    2300006: BackWing
+    2300008: BackWingBox
+    2300010: BackWingGreebles
+    2300012: BackWingHullPlates
+    2300014: CockpitGreebles
+    2300016: Engines
+    2300018: HullPlates
+    2300020: MainHull
+    2300022: Window
+    2300024: WingBeams
+    2300026: WingGreebles
+    2300028: Wings
+    3300000: AmrsHullPlates
+    3300002: ArmGreebles
+    3300004: Arms
+    3300006: BackWing
+    3300008: BackWingBox
+    3300010: BackWingGreebles
+    3300012: BackWingHullPlates
+    3300014: CockpitGreebles
+    3300016: Engines
+    3300018: HullPlates
+    3300020: MainHull
+    3300022: Window
+    3300024: WingBeams
+    3300026: WingGreebles
+    3300028: Wings
+    4300000: ArmGreebles
+    4300002: AmrsHullPlates
+    4300004: Arms
+    4300006: BackWing
+    4300008: BackWingBox
+    4300010: BackWingGreebles
+    4300012: BackWingHullPlates
+    4300014: CockpitGreebles
+    4300016: HullPlates
+    4300018: MainHull
+    4300020: WingBeams
+    4300022: WingGreebles
+    4300024: Wings
+    4300026: Window
+    4300028: Engines
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

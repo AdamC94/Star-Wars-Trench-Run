@@ -1,0 +1,40 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Pursue : SteeringBehaviour 
+{
+
+	public Boid target;
+	Vector3 targetPos;
+
+	// Use this for initialization
+	void Start () {
+		
+	}
+
+	public void OnDrawGizmos()
+	{
+		if(isActiveAndEnabled && Application.isPlaying)
+		{
+			Gizmos.color = Color.green;
+			Gizmos.DrawLine(transform.position, targetPos);
+		}
+	}
+
+	public override Vector3 Calculate()
+	{
+		float dist = Vector3.Distance(target.transform.position, transform.position);
+		float time = dist / boid.maxSpeed;
+
+		targetPos = target.transform.position + (time * target.velocity);
+
+		return boid.SeekForce(targetPos);
+	}
+
+	// Update is called once per frame
+	void Update () 
+	{
+		
+	}
+}
